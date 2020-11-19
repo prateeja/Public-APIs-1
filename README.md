@@ -2,7 +2,7 @@
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
-> Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source  
+> Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 > Items marked with 💸 are trial based APIs
 
 
@@ -171,7 +171,9 @@ APIs
 - [Nexmo](https://developer.nexmo.com) - Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python.💸
 - [Phone Number Validation](https://phonenumbervalidation.apifex.com/) - Check phone number validity, location and timezones.
 - [Sakari](https://developer.sakari.io) - Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call.💸
+- [Telnyx](https://developers.telnyx.com/) - Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network.💸
 - [The SMS Works](https://thesmsworks.co.uk/sms-api) - The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded.💸
+- [Twilio](https://www.twilio.com/solutions) - APIs for SMS, Voice, Video and more.💸
 
 ### Content
 
@@ -181,13 +183,19 @@ APIs
 - [Random Data Generator](https://randommer.io/randommer-api) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.💸
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
 - [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) - German city, country, river, database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Today in History](https://history.muffinlabs.com/) - Daily historical events, births and deaths API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
 
 ### Currency
 
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
+- [Coingecko.com](https://www.coingecko.com/en/api) - Free, comprehensive cryptocurrency API.
+- [CurrencyLayer.com](https://currencylayer.com/documentation) - Exchange rates and currency conversion API.
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
+- [ExchangeRate-API.com](https://www.exchangerate-api.com/docs/overview) - Currency conversion API.
+- [ExchangeRatesAPI.io](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
+- [Frankfurter.app](https://www.frankfurter.app/docs/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
 
@@ -222,6 +230,7 @@ APIs
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
+- [Final Space API](https://finalspaceapi.com/docs/) - A RESTful API that provides information and images about Final Space show. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fun Translations API](https://funtranslations.com/api/) - Translate to over 50+ languages from various TV Series and Movies.
 - [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
@@ -250,7 +259,7 @@ APIs
 - [Verizon Cloud](http://www.verizon.com/cloudstorageapi) - API for accessing stored pictures and other files stored by users of Verizon Cloud app.
 
 ### Finance
-- [Alpha Vantage](https://www.alphavantage.co/) - Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. 
+- [Alpha Vantage](https://www.alphavantage.co/) - Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub.
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
 - Central Banks
  - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
@@ -264,7 +273,7 @@ APIs
  - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
  - [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
  - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
- - [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
+ - [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
  - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 
 ### Fitness
@@ -331,6 +340,7 @@ APIs
 - [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
+- [WorkOS](https://workos.com/docs) - Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin).
 
 ### Machine Learning
 
@@ -340,6 +350,7 @@ APIs
 - [Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/docs/) - Cloud-based machine learning and pattern matching tool.
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
+- [ObjectCut](https://objectcut.com) - Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background.
 - [Unplugg](http://unplu.gg/test_api.html) - Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect.
 
 ### Maps
@@ -380,7 +391,6 @@ APIs
 - [Don't Kill My App](https://github.com/urbandroid-team/dont-kill-my-app) - Database of ways mobile vendors inhibit background activity of apps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Game of Thrones Quotes](https://gameofthronesquotes.xyz) - A free API to retrieve some quotes of Game of Thrones! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
@@ -397,7 +407,7 @@ APIs
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [PageCDN](https://pagecdn.com/docs/public-api) - Public CDN API for Open-source JavaScript, CSS and fonts libraries. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
-- [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
+- [Pastebin](https://pastebin.com/doc_scraping_api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [PhantAuth](https://www.phantauth.net/) - Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [QuickChart](https://quickchart.io) - Generate Chart.js image charts for email, dashboards, etc. Provides a replacement API for the old Google Image Charts service.  ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Rig Veda API](https://aninditabasu.github.io/indica/html/rv.html) - All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers they're mentioned in, the meters the verses are composed in, and the categories the poets and gods belong to.
@@ -414,7 +424,6 @@ APIs
 - [Who Hosts This](https://www.who-hosts-this.com/API) - Detect the hosting provider powering any web site
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
-- [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
 
 ### Movies
 
@@ -430,7 +439,7 @@ APIs
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
-- [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
+- [NPR API](https://dev.npr.org/) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
 - [SearchLy](https://github.com/AlbertSuarez/searchly) - Song similarity search API based on lyrics. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -452,6 +461,7 @@ APIs
 ### Music Identification
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [AudD](https://docs.audd.io/) - Recognize music in microphone recordings, audio files and UGC. 
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
 ### Music Lyrics
@@ -470,6 +480,7 @@ APIs
 - [Faroo](http://www.faroo.com/hp/api/api.html) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms.
 - [New York Times](http://developer.nytimes.com/) - Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, people
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
+- [NewsCatcherAPI](https://newscatcherapi.com/news-api) - News API to find news articles by any topic, country, language, website or keyword. 💸
 - [The Guardian](http://open-platform.theguardian.com/) - Access a huge range of content from The Guardian.
 
 ### Natural Language Processing
@@ -482,6 +493,7 @@ APIs
 - [ParallelDots](https://www.paralleldots.com/text-analysis-apis) - ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection.
 - [Recast.AI](https://recast.ai) - Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots.
 - [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API 💸
+- [SpeechText.AI API](https://speechtext.ai/speech-recognition-api) - Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. 💸
 - [SummarizeBot API](https://www.summarizebot.com/summarization_business.html) - AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. 💸
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
@@ -559,6 +571,7 @@ APIs
 - [MySocialApp](https://mysocialapp.io) - Seamless Social Networking features, API, SDK for any app.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Saidit](https://github.com/Mr-Steal-Your-Script/rsaw) - Open source API wrapper made for the Reddit alternative Saidit.net. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Snapchat](https://github.com/mgp25/SC-API) - PHP library of Snapchat’s private API. #Private
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
 - [Trash Nothing](https://trashnothing.com/developer) - Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day.
@@ -629,7 +642,7 @@ APIs
 - [Clash Royale](https://github.com/martincarrera/clash-royale-api) - API that provides informations about Clash Royale game.
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
-- [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. 
+- [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.
 
 ### Weather
 
@@ -650,6 +663,7 @@ APIs
 
 ### Resources For Design and Discovery of APIs
 
+- [Abstract](https://www.abstractapi.com) - Suite of utility API's (validate emails, create user avatars, calculate VAT, and more) 💸
 - [Apiary](https://apiary.io/) - Collaborative tool to design APIs. 💸
 - [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
